@@ -3,7 +3,7 @@
 #### City, State:
 #### Phone number:
 #### Email:
-*************
+***
 ###Objective
 Put your objectives here and a summary of yourself.
 ***
